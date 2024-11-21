@@ -1,27 +1,53 @@
-# Cards
+# Template de Cards
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+Este projeto é um template de cards desenvolvido utilizando Angular 17. Ele fornece uma estrutura básica para criar e gerenciar cards de forma eficiente e estilizada.
 
-## Development server
+## Demonstração
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![Demonstração do Template de Cards](src/assets/sua/templateCard.png)
 
-## Code scaffolding
+## Começando
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Instruções para configurar o projeto localmente.
 
-## Build
+### Pré-requisitos
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Node.js
+- Angular 17
 
-## Running unit tests
+### Instalação
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuusuario/seurepositorio.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd seurepositorio
+   ```
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
 
-## Running end-to-end tests
+## Uso
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Para iniciar o servidor de desenvolvimento, execute o seguinte comando:
 
-## Further help
+```bash
+ng serve
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Depois, abra o navegador e acesse `http://localhost:4200` para visualizar o template de cards.
+
+## Contribuição
+
+1. Faça um fork do projeto.
+2. Crie sua feature branch (`git checkout -b feature/nome-da-sua-feature`).
+3. Faça commit das suas alterações (`git commit -m 'Adicionando uma nova feature'`).
+4. Faça push para a branch (`git push origin feature/nome-da-sua-feature`).
+5. Abra um Pull Request.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
