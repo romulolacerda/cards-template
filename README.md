@@ -4,7 +4,7 @@ Este projeto é um template de cards desenvolvido utilizando Angular 17. Ele for
 
 ## Demonstração
 
-![Demonstração do Template de Cards](src/assets/sua/templateCard.png)
+![Demonstração do Template de Cards](src/assets/templateCard.png)
 
 ## Começando
 
